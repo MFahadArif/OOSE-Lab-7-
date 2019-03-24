@@ -1,0 +1,6 @@
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\bin\Debug\Functions.dll
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\bin\Debug\Functions.pdb
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\obj\Debug\Functions.dll
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\obj\Debug\Functions.pdb
+E:\4th Semester\OOSE Lab\Lab 5\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache

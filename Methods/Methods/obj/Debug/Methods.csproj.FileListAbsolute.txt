@@ -1,0 +1,12 @@
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\bin\Debug\Functions.dll
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\obj\Debug\Functions.dll
+C:\Users\farif\Downloads\Lab 5\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\bin\Debug\Functions.dll
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\bin\Debug\Functions.pdb
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\obj\Debug\Functions.dll
+C:\Users\farif\Desktop\Fahad University\4th Semester\Labs\OOSE Lab\OOSE Lab 6\Methods\Functions\obj\Debug\Functions.pdb
